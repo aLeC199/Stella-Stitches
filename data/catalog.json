@@ -1,0 +1,610 @@
+[
+  {
+    "src": "../assets/images/blueFit1.jpg",
+    "name": "Blue Fit Gown V1",
+    "price": 35000,
+    "fabric": "Crepe",
+    "category": "Gown",
+    "desc": "A sharp, form-fitting blue gown designed for a sleek silhouette."
+  },
+  {
+    "src": "../assets/images/bluefit2.png",
+    "name": "Blue Fit Gown V2",
+    "price": 35000,
+    "fabric": "Crepe",
+    "category": "Gown",
+    "desc": "Modern blue fitted dress with a contemporary cut."
+  },
+  {
+    "src": "../assets/images/blueGown1.jpg",
+    "name": "Blue Evening Gown",
+    "price": 42000,
+    "fabric": "Silk",
+    "category": "Gown",
+    "desc": "Elegant long-line blue gown for formal occasions."
+  },
+  {
+    "src": "../assets/images/bluepatteern.jpg",
+    "name": "Blue Patterned Dress",
+    "price": 28000,
+    "fabric": "Cotton",
+    "category": "Dress",
+    "desc": "Vibrant blue dress featuring intricate fabric patterns."
+  },
+  {
+    "src": "../assets/images/blueside2.jpg",
+    "name": "Blue Side Slit Gown",
+    "price": 36000,
+    "fabric": "Crepe",
+    "category": "Gown",
+    "desc": "Elegant blue gown with a subtle side slit for added style."
+  },
+  {
+    "src": "../assets/images/bluestarankara.jpg",
+    "name": "Blue Star Ankara",
+    "price": 25000,
+    "fabric": "Ankara",
+    "category": "Traditional",
+    "desc": "Stunning Ankara print featuring a blue star-themed motif."
+  },
+  {
+    "src": "../assets/images/blueStone.jpg",
+    "name": "Blue Stone Embellished",
+    "price": 48000,
+    "fabric": "Lace",
+    "category": "Luxury",
+    "desc": "Luxury gown adorned with shimmering blue stonework."
+  },
+  {
+    "src": "../assets/images/bluestone2.jpg",
+    "name": "Blue Stone Luxe",
+    "price": 48000,
+    "fabric": "Lace",
+    "category": "Luxury",
+    "desc": "Premium evening wear with detailed blue stone accents."
+  },
+  {
+    "src": "../assets/images/braankara.jpg",
+    "name": "Ankara Bra Top",
+    "price": 12000,
+    "fabric": "Ankara",
+    "category": "Top",
+    "desc": "Trendy Ankara bralette top for a bold fashion statement."
+  },
+  {
+    "src": "../assets/images/brown.jpg",
+    "name": "Classic Brown Gown",
+    "price": 30000,
+    "fabric": "Polyester",
+    "category": "Gown",
+    "desc": "Simple yet sophisticated brown dress for versatile wear."
+  },
+  {
+    "src": "../assets/images/brown2.jpg",
+    "name": "Brown Chic Dress",
+    "price": 31000,
+    "fabric": "Polyester",
+    "category": "Gown",
+    "desc": "Earth-toned chic dress with a comfortable fit."
+  },
+  {
+    "src": "../assets/images/brownankara.jpg",
+    "name": "Brown Earth Ankara",
+    "price": 24000,
+    "fabric": "Ankara",
+    "category": "Traditional",
+    "desc": "Rich brown African wax print in a modern style."
+  },
+  {
+    "src": "../assets/images/bustankara.jpg",
+    "name": "Bustier Ankara Top",
+    "price": 18000,
+    "fabric": "Ankara",
+    "category": "Top",
+    "desc": "Structured Ankara bustier top to accentuate the frame."
+  },
+  {
+    "src": "../assets/images/bustyankara.jpg",
+    "name": "Busty Fit Ankara",
+    "price": 26000,
+    "fabric": "Ankara",
+    "category": "Traditional",
+    "desc": "Tailored Ankara piece designed for a curvy silhouette."
+  },
+  {
+    "src": "../assets/images/cropankara.jpg",
+    "name": "Ankara Crop Top",
+    "price": 14000,
+    "fabric": "Ankara",
+    "category": "Top",
+    "desc": "Fun and flirty Ankara crop top for casual outings."
+  },
+  {
+    "src": "../assets/images/cutieankara.jpg",
+    "name": "Cutie Ankara Mini",
+    "price": 22000,
+    "fabric": "Ankara",
+    "category": "Dress",
+    "desc": "Adorable short Ankara dress with a youthful vibe."
+  },
+  {
+    "src": "../assets/images/damnskimpyankara.jpg",
+    "name": "Bold Skimpy Ankara",
+    "price": 19000,
+    "fabric": "Ankara",
+    "category": "Dress",
+    "desc": "A daring and short Ankara cut for the confident woman."
+  },
+  {
+    "src": "../assets/images/excessmakeupankara.jpg",
+    "name": "Glam Ankara Set",
+    "price": 40000,
+    "fabric": "Ankara",
+    "category": "Traditional",
+    "desc": "High-glam Ankara outfit perfect for festive celebrations."
+  },
+  {
+    "src": "../assets/images/fatankara.jpg",
+    "name": "Plus Size Ankara",
+    "price": 28000,
+    "fabric": "Ankara",
+    "category": "Traditional",
+    "desc": "Flattering Ankara design tailored for curvy figures."
+  },
+  {
+    "src": "../assets/images/freshankara.jpg",
+    "name": "Fresh Print Ankara",
+    "price": 23000,
+    "fabric": "Ankara",
+    "category": "Traditional",
+    "desc": "New season Ankara print with bright, fresh colors."
+  },
+  {
+    "src": "../assets/images/gown.jpg",
+    "name": "Standard Black Gown",
+    "price": 33000,
+    "fabric": "Crepe",
+    "category": "Gown",
+    "desc": "A versatile black gown that belongs in every wardrobe."
+  },
+  {
+    "src": "../assets/images/hero.webp",
+    "name": "Hero Showcase Piece",
+    "price": 55000,
+    "fabric": "Premium Silk",
+    "category": "Luxury",
+    "desc": "Our flagship design featured in the main collection."
+  },
+  {
+    "src": "../assets/images/IMG-4369_340x.webp",
+    "name": "Signature Wrap Dress",
+    "price": 32000,
+    "fabric": "Chiffon",
+    "category": "Dress",
+    "desc": "A breathable and stylish signature wrap-style dress."
+  },
+  {
+    "src": "../assets/images/lilac.jpg",
+    "name": "Lilac Dream Gown",
+    "price": 37000,
+    "fabric": "Chiffon",
+    "category": "Gown",
+    "desc": "Soft lilac hues meet a flowing, dreamy silhouette."
+  },
+  {
+    "src": "../assets/images/lilac2.jpg",
+    "name": "Lilac Party Dress",
+    "price": 34000,
+    "fabric": "Satin",
+    "category": "Gown",
+    "desc": "A shiny satin lilac dress perfect for bridesmaids or parties."
+  },
+  {
+    "src": "../assets/images/lilac-side.jpg",
+    "name": "Lilac Side Detail",
+    "price": 36000,
+    "fabric": "Crepe",
+    "category": "Gown",
+    "desc": "Lilac gown featuring unique side-stitching details."
+  },
+  {
+    "src": "../assets/images/localankara.jpg",
+    "name": "Local Heritage Ankara",
+    "price": 20000,
+    "fabric": "Ankara",
+    "category": "Traditional",
+    "desc": "Traditional African prints sourced from local artisans."
+  },
+  {
+    "src": "../assets/images/one-sideankara.jpg",
+    "name": "One-Shoulder Ankara",
+    "price": 27000,
+    "fabric": "Ankara",
+    "category": "Traditional",
+    "desc": "Stylish one-shoulder design in vibrant Ankara fabric."
+  },
+  {
+    "src": "../assets/images/orangeBack.png",
+    "name": "Orange Backless Gown",
+    "price": 39000,
+    "fabric": "Satin",
+    "category": "Gown",
+    "desc": "Striking orange gown with a daring open-back design."
+  },
+  {
+    "src": "../assets/images/orangeGown.jpg",
+    "name": "Orange Flare Gown",
+    "price": 34000,
+    "fabric": "Crepe",
+    "category": "Gown",
+    "desc": "Bright orange flare gown that pops in any crowd."
+  },
+  {
+    "src": "../assets/images/pantlessankara.jpg",
+    "name": "Ankara Mini Tunic",
+    "price": 21000,
+    "fabric": "Ankara",
+    "category": "Traditional",
+    "desc": "A short, tunic-style Ankara top that doubles as a dress."
+  },
+  {
+    "src": "../assets/images/pinkankaraback.jpg",
+    "name": "Pink Ankara Back Detail",
+    "price": 26000,
+    "fabric": "Ankara",
+    "category": "Traditional",
+    "desc": "Pink-themed Ankara with focus on exquisite back tailoring."
+  },
+  {
+    "src": "../assets/images/PURPLE.png",
+    "name": "Deep Purple Royal",
+    "price": 45000,
+    "fabric": "Velvet",
+    "category": "Luxury",
+    "desc": "Rich, deep purple gown made from premium velvet fabric."
+  },
+  {
+    "src": "../assets/images/purplefold.jpg",
+    "name": "Purple Folded Gown",
+    "price": 38000,
+    "fabric": "Silk",
+    "category": "Gown",
+    "desc": "Unique folded pleat details in a stunning purple shade."
+  },
+  {
+    "src": "../assets/images/purpleGown.png",
+    "name": "Purple Gala Gown",
+    "price": 40000,
+    "fabric": "Satin",
+    "category": "Gown",
+    "desc": "A high-shine purple gown perfect for gala events."
+  },
+  {
+    "src": "../assets/images/purplemyraid4.png",
+    "name": "Purple Myriad Pattern",
+    "price": 29000,
+    "fabric": "Cotton",
+    "category": "Dress",
+    "desc": "Complex myriad patterns on a comfortable purple base."
+  },
+  {
+    "src": "../assets/images/purpleMyriad1.jpg",
+    "name": "Purple Myriad V1",
+    "price": 29000,
+    "fabric": "Cotton",
+    "category": "Dress",
+    "desc": "Artistic myriad print in a purple colorway."
+  },
+  {
+    "src": "../assets/images/purpleMyriad2.jpg",
+    "name": "Purple Myriad V2",
+    "price": 29000,
+    "fabric": "Cotton",
+    "category": "Dress",
+    "desc": "Sequel pattern to our popular Myriad collection."
+  },
+  {
+    "src": "../assets/images/purplemyriad3.jpg",
+    "name": "Purple Myriad V3",
+    "price": 29000,
+    "fabric": "Cotton",
+    "category": "Dress",
+    "desc": "Alternative myriad print layout in deep purple."
+  },
+  {
+    "src": "../assets/images/purpleNetGown.jpg",
+    "name": "Purple Net Gown",
+    "price": 50000,
+    "fabric": "Net/Lace",
+    "category": "Luxury",
+    "desc": "Intricate purple net gown with sheer accents."
+  },
+  {
+    "src": "../assets/images/purplrnetfront.png",
+    "name": "Purple Net Frontage",
+    "price": 50000,
+    "fabric": "Net/Lace",
+    "category": "Luxury",
+    "desc": "The front-view showcase of our premium purple net gown."
+  },
+  {
+    "src": "../assets/images/red2.jpg",
+    "name": "Red Passion Gown",
+    "price": 33000,
+    "fabric": "Crepe",
+    "category": "Gown",
+    "desc": "A bold red dress for a powerful presence."
+  },
+  {
+    "src": "../assets/images/red3.jpg",
+    "name": "Crimson Red Dress",
+    "price": 31000,
+    "fabric": "Polyester",
+    "category": "Dress",
+    "desc": "A deep crimson dress suitable for office or dinner."
+  },
+  {
+    "src": "../assets/images/redFlare1.jpg",
+    "name": "Red Flare Gown",
+    "price": 35000,
+    "fabric": "Cotton Mix",
+    "category": "Gown",
+    "desc": "Beautifully flared red dress that moves with grace."
+  },
+  {
+    "src": "../assets/images/redwine.jpg",
+    "name": "Wine Red Classic",
+    "price": 38000,
+    "fabric": "Velvet",
+    "category": "Gown",
+    "desc": "Sophisticated wine-colored dress for late-night events."
+  },
+  {
+    "src": "../assets/images/royalankara.jpg",
+    "name": "Royal Ankara",
+    "price": 30000,
+    "fabric": "Ankara",
+    "category": "Traditional",
+    "desc": "Majestic Ankara print fit for royalty."
+  },
+  {
+    "src": "../assets/images/shiny.jpg",
+    "name": "Shiny Silver Gown",
+    "price": 45000,
+    "fabric": "Sequin",
+    "category": "Luxury",
+    "desc": "All-over sequin gown that catches every light."
+  },
+  {
+    "src": "../assets/images/shiny3.jpg",
+    "name": "Shiny Metallic Dress",
+    "price": 42000,
+    "fabric": "Metallic Mix",
+    "category": "Luxury",
+    "desc": "Futuristic metallic finish on a classic dress cut."
+  },
+  {
+    "src": "../assets/images/shinyblue.png",
+    "name": "Shiny Blue Partywear",
+    "price": 44000,
+    "fabric": "Sequin",
+    "category": "Luxury",
+    "desc": "Electric blue sequins for a high-energy look."
+  },
+  {
+    "src": "../assets/images/sideGown.jpg",
+    "name": "Side Accent Gown",
+    "price": 34000,
+    "fabric": "Crepe",
+    "category": "Gown",
+    "desc": "Features a unique structural accent on the side."
+  },
+  {
+    "src": "../assets/images/skimpyankara.jpg",
+    "name": "Ankara Mini",
+    "price": 18000,
+    "fabric": "Ankara",
+    "category": "Traditional",
+    "desc": "Flirty and short Ankara dress for summer days."
+  },
+  {
+    "src": "../assets/images/slimankara.jpg",
+    "name": "Slim Fit Ankara",
+    "price": 25000,
+    "fabric": "Ankara",
+    "category": "Traditional",
+    "desc": "Perfectly tailored slim-fit Ankara dress."
+  },
+  {
+    "src": "../assets/images/slitankara.jpg",
+    "name": "High Slit Ankara",
+    "price": 29000,
+    "fabric": "Ankara",
+    "category": "Traditional",
+    "desc": "Ankara gown featuring a bold thigh-high slit."
+  },
+  {
+    "src": "../assets/images/smartankara.jpg",
+    "name": "Smart Office Ankara",
+    "price": 26000,
+    "fabric": "Ankara",
+    "category": "Traditional",
+    "desc": "A professional take on the classic Ankara print."
+  },
+  {
+    "src": "../assets/images/spiral.jpg",
+    "name": "Spiral Print Dress",
+    "price": 27000,
+    "fabric": "Cotton",
+    "category": "Dress",
+    "desc": "Hypnotic spiral patterns on a breathable cotton base."
+  },
+  {
+    "src": "../assets/images/spiralblack.png",
+    "name": "Black Spiral Gown",
+    "price": 35000,
+    "fabric": "Crepe",
+    "category": "Gown",
+    "desc": "Monochrome spiral design for a sophisticated look."
+  },
+  {
+    "src": "../assets/images/stripsankara.jpg",
+    "name": "Striped Ankara Mix",
+    "price": 24000,
+    "fabric": "Ankara",
+    "category": "Traditional",
+    "desc": "Unique blend of stripes and traditional prints."
+  },
+  {
+    "src": "../assets/images/teethankara.jpg",
+    "name": "Jagged Pattern Ankara",
+    "price": 23000,
+    "fabric": "Ankara",
+    "category": "Traditional",
+    "desc": "Edgy 'teeth' pattern for a standout Ankara look."
+  },
+  {
+    "src": "../assets/images/uglygirlankara.jpg",
+    "name": "Avant-Garde Ankara",
+    "price": 22000,
+    "fabric": "Ankara",
+    "category": "Traditional",
+    "desc": "Unique, non-traditional Ankara styling."
+  },
+  {
+    "src": "../assets/images/uglypurple.webp",
+    "name": "Purple Texture Dress",
+    "price": 28000,
+    "fabric": "Mixed Fiber",
+    "category": "Dress",
+    "desc": "Deep purple dress with a unique textured finish."
+  },
+  {
+    "src": "../assets/images/unfitankara.jpg",
+    "name": "Oversized Ankara Top",
+    "price": 18000,
+    "fabric": "Ankara",
+    "category": "Top",
+    "desc": "Relaxed, oversized fit for a casual bohemian vibe."
+  },
+  {
+    "src": "../assets/images/upskirtblueankara.jpg",
+    "name": "Blue Ankara Skirt",
+    "price": 15000,
+    "fabric": "Ankara",
+    "category": "Bottom",
+    "desc": "A high-waisted blue Ankara skirt with great volume."
+  },
+  {
+    "src": "../assets/images/yanshankara.jpg",
+    "name": "Curvy Ankara Fit",
+    "price": 28000,
+    "fabric": "Ankara",
+    "category": "Traditional",
+    "desc": "Ankara design that emphasizes a curvy silhouette."
+  },
+  {
+    "src": "../assets/images/yellow.png",
+    "name": "Sunshine Yellow Gown",
+    "price": 33000,
+    "fabric": "Crepe",
+    "category": "Gown",
+    "desc": "Vibrant yellow gown that radiates energy."
+  },
+  {
+    "src": "../assets/images/yellowankara.jpg",
+    "name": "Yellow Bloom Ankara",
+    "price": 24000,
+    "fabric": "Ankara",
+    "category": "Traditional",
+    "desc": "Floral-themed yellow Ankara print."
+  },
+  {
+    "src": "../assets/images/yellowside.jpg",
+    "name": "Yellow Side-Cut",
+    "price": 31000,
+    "fabric": "Crepe",
+    "category": "Dress",
+    "desc": "Yellow dress with modern side-cut details."
+  },
+  {
+    "src": "../assets/images/anchorankara.jpg",
+    "name": "Anchor Print Ankara",
+    "price": 25000,
+    "fabric": "Ankara",
+    "category": "Traditional",
+    "desc": "Nautical-themed Ankara print."
+  },
+  {
+    "src": "../assets/images/anchorneckankara.jpg",
+    "name": "Anchor Neck Ankara",
+    "price": 27000,
+    "fabric": "Ankara",
+    "category": "Traditional",
+    "desc": "Unique neckline featuring anchor-style patterns."
+  },
+  {
+    "src": "../assets/images/baggyarmankara.jpg",
+    "name": "Baggy Sleeve Ankara",
+    "price": 28000,
+    "fabric": "Ankara",
+    "category": "Traditional",
+    "desc": "Ankara dress with dramatic, oversized baggy sleeves."
+  },
+  {
+    "src": "../assets/images/ballonankara.jpg",
+    "name": "Balloon Sleeve Ankara",
+    "price": 29000,
+    "fabric": "Ankara",
+    "category": "Traditional",
+    "desc": "Trendy balloon-style sleeves in a bright Ankara print."
+  },
+  {
+    "src": "../assets/images/blaackcloseup.jpg",
+    "name": "Black Detail Gown",
+    "price": 36000,
+    "fabric": "Crepe",
+    "category": "Gown",
+    "desc": "Focus on the intricate stitching of our classic black gown."
+  },
+  {
+    "src": "../assets/images/black.jpg",
+    "name": "Midnight Black Gown",
+    "price": 33000,
+    "fabric": "Silk",
+    "category": "Gown",
+    "desc": "A premium silk black gown for a timeless evening look."
+  },
+  {
+    "src": "../assets/images/blackankara.jpg",
+    "name": "Black Pattern Ankara",
+    "price": 26000,
+    "fabric": "Ankara",
+    "category": "Traditional",
+    "desc": "A rare black-based Ankara print with gold accents."
+  },
+  {
+    "src": "../assets/images/blackFront.jpg",
+    "name": "Black Frontage Fit",
+    "price": 34000,
+    "fabric": "Crepe",
+    "category": "Gown",
+    "desc": "The front profile of our signature black evening dress."
+  },
+  {
+    "src": "../assets/images/blue1.webp",
+    "name": "Azure Blue Gown",
+    "price": 35000,
+    "fabric": "Chiffon",
+    "category": "Gown",
+    "desc": "Light and airy azure blue dress for day events."
+  },
+  {
+    "src": "../assets/images/blueankara.jpg",
+    "name": "Ocean Blue Ankara",
+    "price": 25000,
+    "fabric": "Ankara",
+    "category": "Traditional",
+    "desc": "Vibrant ocean-themed blue Ankara print."
+  }
+]
