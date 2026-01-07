@@ -879,6 +879,9 @@ footer p {
         transform: translate(-50%);
         border-radius: 23px;
         box-shadow: 0px 0px 10px #161616;
+        display:flex;
+        align-items:center;
+        justify-content:center;
     }
 
     #order-btn {
@@ -1102,3 +1105,4 @@ footer p {
     }
 
 }
+
